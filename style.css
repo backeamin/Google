@@ -1,0 +1,61 @@
+.google_div .google_image{
+    text-align: center;
+    margin: 200px auto 30px;
+
+}
+.google_div .main_form{
+    text-align: center; 
+}
+
+.google_div .main_form input{
+    padding: 10px 20px;
+    border-radius: 30px;
+    height: 30px;
+    width: 500px;
+    margin-bottom: 30px;
+    border: 1px solid rgb(223, 215, 215);
+}
+.google_div .main_form input:hover{
+    box-shadow: 0px 1px 3px 0px rgb(126 121 121);
+}
+.google_div .submited{
+    text-align: center;
+}
+.google_div .submited .input_one, .input_tow{
+    padding: 11PX;
+    height: 40px;
+    width: 130;
+    box-sizing: border-box;
+    border: 1px solid #f8f9fa;
+    cursor: pointer;
+    color: rgb(80, 72, 72);
+    background-color: #f8f9fa;
+    
+}
+.google_div .submited .input_one{
+    margin-right: 5px;
+}
+.google_div .submited .input_one:hover{
+    box-shadow: 0px 1px 3px 0px rgb(126 121 121);
+}
+.google_div .submited .input_tow{
+    margin-left: 5px;
+}
+.google_div .submited .input_tow:hover{
+    box-shadow: 0px 1px 3px 0px rgb(126 121 121);
+}
+.google_div .textdec{
+    text-align: center;
+}
+.google_div .textdec p{
+    font-size: small;
+}
+.google_div .textdec p a{
+    text-decoration: none;
+}
+.google_div .textdec p a:hover{
+    text-decoration: underline;
+}
+.main_form input:focus{
+    outline: none;
+}
